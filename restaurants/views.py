@@ -14,6 +14,10 @@ def restaurant_list(request):
     	{
     		'restaurant_name':'Sakura',
     		'food_type':'Japanese'
+    	},
+    	{
+    		'restaurant_name':'PF Chang',
+    		'food_type':'Chinese'
     	}
     	]
     }
